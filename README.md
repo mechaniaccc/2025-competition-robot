@@ -1,7 +1,7 @@
 # FRC 6941 IronPulse & 10541 CarbonPulse 2025 Competition Robot
 
 - 年级：11.8
-- 姓名：刘博安
+- 姓名：刘博安 
 
 ## Troubleshooting
 
